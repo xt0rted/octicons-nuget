@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>octicons</id>
+        <title>Octicons</title>
+        <version>2.1.1</version>
+        <authors>GitHub</authors>
+        <owners>xt0rted</owners>
+        <licenseUrl>https://github.com/github/octicons/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>http://octicons.github.com</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>GitHub's icon font</description>
+        <releaseNotes>https://github.com/github/octicons/blob/master/CHANGELOG.md</releaseNotes>
+        <copyright>https://github.com/github/octicons/blob/master/LICENSE.txt</copyright>
+        <tags>font GitHub icons octicons</tags>
+    </metadata>
+    <files>
+        <file src="octicons.css"  target="content\Content\octicons.css" />
+        <file src="octicons.eot"  target="content\Content\fonts\octicons.eot" />
+        <file src="octicons.svg"  target="content\Content\fonts\octicons.svg" />
+        <file src="octicons.ttf"  target="content\Content\fonts\octicons.ttf" />
+        <file src="octicons.woff" target="content\Content\fonts\octicons.woff" />
+    </files>
+</package>
