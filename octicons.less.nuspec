@@ -3,13 +3,13 @@
     <metadata>
         <id>octicons.less</id>
         <title>Octicons Less Source</title>
-        <version>2.1.1</version>
+        <version>2.1.2</version>
         <authors>GitHub</authors>
         <owners>xt0rted</owners>
         <licenseUrl>https://github.com/github/octicons/blob/master/LICENSE.txt</licenseUrl>
         <projectUrl>http://octicons.github.com</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>GitHub's icon font</description>
+        <description>GitHub's icon font. Package issues can be reported at https://github.com/xt0rted/octicons-nuget</description>
         <releaseNotes>https://github.com/github/octicons/blob/master/CHANGELOG.md</releaseNotes>
         <copyright>https://github.com/github/octicons/blob/master/LICENSE.txt</copyright>
         <tags>font GitHub icons less octicons</tags>
